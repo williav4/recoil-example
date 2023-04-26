@@ -1,4 +1,16 @@
-# Excalidraw Clone built with Recoil
+# Getting Started
+- This projct uses yarn version 1.22.1
+- Install yarn (use brew with mac)
+- use cmd line to confirm yarn version with 'yarn -v'
+    - if version is incorrect, update with 'yarn set version 1.22.1' 
+- run 'yarn install'
+- start project with 'yarn start'
+
+### Install Recoil
+- 'yarn add recoil'
+
+# Examples Origin:
+## Excalidraw Clone built with Recoil
 
 This is the start of an [Exaclidraw](https://excalidraw.com/) clone that I am building with [Recoil](https://recoiljs.org/).
 
